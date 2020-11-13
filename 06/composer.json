@@ -1,0 +1,21 @@
+{
+  "name": "vendor_name/06",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "GSzwa",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "doctrine/orm": "^2.7",
+    "symfony/yaml": "^4.4"
+  },
+  "autoload": {
+    "psr-0": {
+      "": "src/"
+    }
+  }
+}

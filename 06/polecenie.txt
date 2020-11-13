@@ -1,0 +1,12 @@
+Kroki zadania do wykonania:
+
+    Utworzenie bazy danych i wgranie do niej tabel (customers i employees) ze skryptu labs.sql
+    Utworzenie projektu dla języka PHP z użyciem narzędzia Composer z włączoną obsługą biblioteki doctrine/dbal
+    Nawiązanie połączenia z bazą danych
+    Korzystając z DBAL Query Buidler:
+        Wyświetlić wszystkich klientów (customer) mających w kolumnie 'country' wartość 'USA'
+        Wyświetlić numer i nazwę wszystkich klientów wraz imieniem i nazwiskiem ich opiekuna handlowego (konieczny join pomiędzy tabelami customers i employees)
+    Stworzyć własną tabelę z użyciem DBAL Schema-Representation (kolumny: id - klucz główny, napis - string, liczba - integer)
+    Dodać kilka wartości do nowej tabeli używając DBAL Query Builder z metodą insert()
+
+Przesyłając zadanie proszę przesłać plik skryptu oraz plik composer.json

@@ -20,19 +20,58 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7185447-ee43-400c-8291-0cd4f97327bc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../05/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../05/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../05/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/06.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/06.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.php" beforeDir="false" afterPath="$PROJECT_DIR$/main.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings">
-    <execution />
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <phar pharPath="$PROJECT_DIR$/composer.phar" interpreterId="b9a52127-5b41-4a16-a182-951c9280fc19" />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="composer.json" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="PhpDebugGeneral" show_user_defined_constants="false" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/persistence" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/vendor/symfony/yaml" />
+    </include_path>
   </component>
   <component name="ProjectId" id="1kC73RG41dInaYqZZN8R1uaGMQO" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -41,10 +80,19 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../xampp/php/php.exe" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php.debug" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/main.php">
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -55,6 +103,9 @@
       <option name="presentableId" value="Default" />
       <updated>1605192519933</updated>
       <workItem from="1605192521427" duration="602000" />
+      <workItem from="1605194836515" duration="1926000" />
+      <workItem from="1605196802692" duration="12913000" />
+      <workItem from="1605266353280" duration="911000" />
     </task>
     <servers />
   </component>
@@ -71,15 +122,81 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="726" y="36" width="840" height="695" key="#CLI_Interpreters" timestamp="1605218336562">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="726" y="36" width="840" height="695" key="#CLI_Interpreters/0.0.1600.870@0.0.1600.870" timestamp="1605218336562" />
+    <state x="761" y="100" key="#PHP" timestamp="1605195608347">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="761" y="100" key="#PHP/0.0.1600.870@0.0.1600.870" timestamp="1605195608347" />
+    <state x="343" y="89" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605217201919">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="343" y="89" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.870@0.0.1600.870" timestamp="1605217201919" />
+    <state x="750" y="250" key="#com.jetbrains.php.debug.validation.PhpWebServerValidationDialog#" timestamp="1605218417051">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="750" y="250" key="#com.jetbrains.php.debug.validation.PhpWebServerValidationDialog#/0.0.1600.870@0.0.1600.870" timestamp="1605218417051" />
+    <state x="980" y="364" key="#com.jetbrains.php.lang.intentions.PhpImportClassDialog#" timestamp="1605195317511">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="980" y="364" key="#com.jetbrains.php.lang.intentions.PhpImportClassDialog#/0.0.1600.870@0.0.1600.870" timestamp="1605195317511" />
+    <state x="897" y="351" width="447" height="330" key="ComposerInitDialogKey" timestamp="1605196422570">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="897" y="351" width="447" height="330" key="ComposerInitDialogKey/0.0.1600.870@0.0.1600.870" timestamp="1605196422570" />
+    <state x="834" y="212" key="FileChooserDialogImpl" timestamp="1605195599168">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="834" y="212" key="FileChooserDialogImpl/0.0.1600.870@0.0.1600.870" timestamp="1605195599168" />
+    <state width="754" height="272" key="GridCell.Tab.0.bottom" timestamp="1605250817203">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="754" height="272" key="GridCell.Tab.0.bottom/0.0.1600.870@0.0.1600.870" timestamp="1605250817203" />
+    <state width="754" height="272" key="GridCell.Tab.0.center" timestamp="1605250817202">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="754" height="272" key="GridCell.Tab.0.center/0.0.1600.870@0.0.1600.870" timestamp="1605250817202" />
+    <state width="754" height="272" key="GridCell.Tab.0.left" timestamp="1605250817202">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="754" height="272" key="GridCell.Tab.0.left/0.0.1600.870@0.0.1600.870" timestamp="1605250817202" />
+    <state width="754" height="272" key="GridCell.Tab.0.right" timestamp="1605250817203">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="754" height="272" key="GridCell.Tab.0.right/0.0.1600.870@0.0.1600.870" timestamp="1605250817203" />
+    <state width="754" height="272" key="GridCell.Tab.1.bottom" timestamp="1605250817203">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="754" height="272" key="GridCell.Tab.1.bottom/0.0.1600.870@0.0.1600.870" timestamp="1605250817203" />
+    <state width="754" height="272" key="GridCell.Tab.1.center" timestamp="1605250817203">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="754" height="272" key="GridCell.Tab.1.center/0.0.1600.870@0.0.1600.870" timestamp="1605250817203" />
+    <state width="754" height="272" key="GridCell.Tab.1.left" timestamp="1605250817203">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="754" height="272" key="GridCell.Tab.1.left/0.0.1600.870@0.0.1600.870" timestamp="1605250817203" />
+    <state width="754" height="272" key="GridCell.Tab.1.right" timestamp="1605250817203">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="754" height="272" key="GridCell.Tab.1.right/0.0.1600.870@0.0.1600.870" timestamp="1605250817203" />
     <state x="1113" y="503" key="NewPhpFileDialog" timestamp="1605192550355">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="1113" y="503" key="NewPhpFileDialog/0.0.1920.1050/1920.-480.1080.1890@0.0.1920.1050" timestamp="1605192550355" />
-    <state x="780" y="225" key="SettingsEditor" timestamp="1605193083112">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state x="602" y="89" width="998" height="708" key="SettingsEditor" timestamp="1605218422504">
+      <screen x="0" y="0" width="1600" height="870" />
     </state>
+    <state x="602" y="89" width="998" height="708" key="SettingsEditor/0.0.1600.870@0.0.1600.870" timestamp="1605218422504" />
     <state x="780" y="225" key="SettingsEditor/0.0.1920.1050/1920.-480.1080.1890@0.0.1920.1050" timestamp="1605193083112" />
+    <state x="0" y="0" key="com.jetbrains.php.config.phpInfo.PhpInfo.PhpInfoDialog" timestamp="1605216853749">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="0" y="0" key="com.jetbrains.php.config.phpInfo.PhpInfo.PhpInfoDialog/0.0.1600.870@0.0.1600.870" timestamp="1605216853749" />
   </component>
 </project>
